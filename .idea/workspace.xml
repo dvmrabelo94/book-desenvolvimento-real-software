@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e6c730b-6d21-4818-91a2-2e18b1a79c30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/BankTransactionFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/BankTransactionSummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/Exporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/HtmlExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/SummaryStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/interfacefuncional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/interfacefuncional/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/BankStatementAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/BankStatementCSVParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/BankStatementParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/BankStatementProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/BankTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/BankTransactionFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/BankTransactionSummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/Exporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/HtmlExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/SummaryStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/interfacefuncional/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/interfacefuncional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cap2-3-extratos-bancarios/src/main/java/org/example/interfacefuncional/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/BankStatementAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/BankStatementAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/BankStatementProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/BankStatementProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cap1-extratos-bancarios/src/main/java/org/example/MainApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2keFkG8V6aUCMWoWjqdHGOJKjZ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/vikma/book-desenvolvimento-real-software/cap4-gereciador-documentos"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e6c730b-6d21-4818-91a2-2e18b1a79c30" name="Changes" comment="" />
+      <created>1723636276483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723636276483</updated>
+    </task>
+    <servers />
+  </component>
+</project>
